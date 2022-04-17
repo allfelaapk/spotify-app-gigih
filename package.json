@@ -7,6 +7,7 @@
     "@testing-library/jest-dom": "^5.16.2",
     "@testing-library/react": "^12.1.4",
     "@testing-library/user-event": "^13.5.0",
+<<<<<<< HEAD
     "@types/jest": "^27.4.1",
     "@types/node": "^17.0.24",
     "@types/react": "^18.0.5",
@@ -15,12 +16,17 @@
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-prettier": "^4.0.0",
     "prettier": "^2.6.2",
+=======
+>>>>>>> c9801eb1d951e6402de9bacb6e6488b384d0ba60
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-redux": "^7.2.8",
     "react-router-dom": "^5.3.0",
     "react-scripts": "5.0.0",
+<<<<<<< HEAD
     "typescript": "^4.6.3",
+=======
+>>>>>>> c9801eb1d951e6402de9bacb6e6488b384d0ba60
     "web-vitals": "^2.1.4"
   },
   "scripts": {
@@ -49,6 +55,7 @@
     ]
   },
   "devDependencies": {
+<<<<<<< HEAD
     "@typescript-eslint/eslint-plugin": "^5.19.0",
     "@typescript-eslint/parser": "^5.19.0",
     "autoprefixer": "^10.4.4",
@@ -58,6 +65,10 @@
     "eslint-plugin-jsx-a11y": "^6.5.1",
     "eslint-plugin-react": "^7.29.4",
     "eslint-plugin-react-hooks": "^4.4.0",
+=======
+    "autoprefixer": "^10.4.4",
+    "eslint": "^8.13.0",
+>>>>>>> c9801eb1d951e6402de9bacb6e6488b384d0ba60
     "postcss": "^8.4.12",
     "tailwindcss": "^3.0.24"
   }
